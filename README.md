@@ -8,10 +8,10 @@ Format
   arg3 = Number of words to be retrieved.
   Once the application is run, the desired output would be printed in the formated  given in the documentation
   eg:
+  
+  
     Count Word
-
     === ====
-
     37 the
     32 and
     25 a
